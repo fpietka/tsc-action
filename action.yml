@@ -1,4 +1,4 @@
-name: "TSC actions"
+name: "TypeScript Check actions"
 description: "Type checking TypeScript code"
 runs:
   using: node12
